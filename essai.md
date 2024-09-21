@@ -303,3 +303,28 @@ dadaFs <- dada(filtFs, err=errF, multithread=TRUE)
     ## Sample 18 - 4871 reads in 1382 unique sequences.
     ## Sample 19 - 6504 reads in 1709 unique sequences.
     ## Sample 20 - 4314 reads in 897 unique sequences.
+
+``` r
+dadaRs <- dada(filtRs, err=errR, multithread=TRUE)
+```
+
+    ## Sample 1 - 7113 reads in 1660 unique sequences.
+    ## Sample 2 - 5299 reads in 1349 unique sequences.
+    ## Sample 3 - 5463 reads in 1335 unique sequences.
+    ## Sample 4 - 2914 reads in 853 unique sequences.
+    ## Sample 5 - 2941 reads in 880 unique sequences.
+    ## Sample 6 - 4312 reads in 1286 unique sequences.
+    ## Sample 7 - 6741 reads in 1803 unique sequences.
+    ## Sample 8 - 4560 reads in 1265 unique sequences.
+    ## Sample 9 - 15637 reads in 3414 unique sequences.
+    ## Sample 10 - 11413 reads in 2522 unique sequences.
+    ## Sample 11 - 12017 reads in 2771 unique sequences.
+    ## Sample 12 - 5032 reads in 1415 unique sequences.
+    ## Sample 13 - 18075 reads in 3290 unique sequences.
+    ## Sample 14 - 6250 reads in 1390 unique sequences.
+    ## Sample 15 - 4052 reads in 1134 unique sequences.
+    ## Sample 16 - 7369 reads in 1635 unique sequences.
+    ## Sample 17 - 4765 reads in 1084 unique sequences.
+    ## Sample 18 - 4871 reads in 1161 unique sequences.
+    ## Sample 19 - 6504 reads in 1502 unique sequences.
+    ## Sample 20 - 4314 reads in 732 unique sequences.
